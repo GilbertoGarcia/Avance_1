@@ -12,3 +12,5 @@ Con el desarrollo de la base de datos se pretende que la empresa ARCA CONTINENTA
 **Para terminar en la finalización de la implementación de un sistema de base de datos eficaz se tomara en consideración instalar el sistema sujeto a futuras mejoras o actualizaciones en base a la independencia de datos físicas y gestionar de manera satisfactoria con el lenguaje de manipulación de datos.**
 
 
+
+![Diagrama E-R](https://github.com/GilbertoGarcia/Avance_1/blob/master/gil.png)
