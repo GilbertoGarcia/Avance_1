@@ -1,4 +1,4 @@
-# Avance_1
+# Proyecto de implementacion de base de datos a una embotelladora
 # INTRODUCCION
 
 EMBOTELLADORA ARCA CONTINENTAL es una empresa dedicada Elaboración y envasado de bebidas gaseosas para la venta al público en general en la ciudad de Mexicali, Baja California. Dentro de la embotelladora existen tres procesos principales, pedidos a la empresa, las ventas y los inventarios (Almacén y puntos de venta).
