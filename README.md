@@ -49,7 +49,7 @@ Desarrollar una base de datos para el control de compras, clientes y registro de
 
 **10.	Definir dinámicamente entidades y atributos adicionales para gestionar la información de referencia.**
 
-## DIAGRAMA ENTIDAD-RELACION
+## MODELO ENTIDAD-RELACION
 
 ### REQUERIMIENTOS
 
@@ -68,6 +68,13 @@ Los registros de cada compra avalaran la existencia de una factura. Un cliente p
 ### DIAGRAMA
 ![E-R](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Diagrama%20Entidad%20Relacion%202.png)
 
-### Diccionario de datos considerando las entidades identificadas
+### DICCIONARIO DE DATOS CONSIDERANDO LAS ENTIDADES IDENTIFICADAS
+![DICCIONARIO 1](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Diccionario%201%20-%20Entidades.png)
+
+### DICCIONARIO DE DATOS CONSIDERANDO LAS RELACIONES ENTRE LAS TABLAS
+![DICCIONARIO 2](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Diccionario%202%20-%20Relaciones.png)
+
+### DICCIONARIO DE DATOS CONSIDERANDO LOS ATRIBUTOS DE CADA UNA DE LAS ENTIDADES IDENTIFICADAS
+![DICCIONARIO 3](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Diccionario%203%20-%20Atributos.png)
 
 ![Base 2](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Producto%20base%202.png)
