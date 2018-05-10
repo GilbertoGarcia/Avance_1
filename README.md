@@ -1,9 +1,10 @@
-# Proyecto de implementacion de base de datos a una embotelladora
+# DISTRIBUIDORA DE AGUA EMBOTELLADA CORAL
+
 # INTRODUCCION
 
-EMBOTELLADORA ARCA CONTINENTAL es una empresa dedicada Elaboración y envasado de bebidas gaseosas para la venta al público en general en la ciudad de Mexicali, Baja California. Dentro de la embotelladora existen tres procesos principales, pedidos a la empresa, las ventas y los inventarios (Almacén y puntos de venta).
-
-Después de conocer los antecedentes y la problemática de la empresa, se propone el desarrollo de un sistema de bases de datos que permita optimizar el manejo y el control de la información, dicho sistema permitirá al administrador y a los propietarios tener información organizada y confiable de manera ágil.
+<div class=text-justify>
+Este proyecto ha consistido en el desarrollo de una base de datos para un negocio ficticio, cuyas necesidades estarán descritas en los requerimientos, además se llevara a cabo hasta el punto únicamente del diseño de la base de datos, elaborándose en el margen de la asignatura de fundamentos de bases de datos.
+</div>
 
 # MOTIVACION
 
