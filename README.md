@@ -9,7 +9,7 @@ esto le permite a las empresas tener un mejor control de los datos que se maneja
 
 Este proyecto ha consistido en el desarrollo de una base de datos para un negocio ficticio, cuyas necesidades estarán descritas en los requerimientos, además se llevara a cabo hasta el punto únicamente del diseño de la base de datos, elaborándose en el margen de la asignatura de fundamentos de bases de datos.
 
-### INTRODUCCION A LA PROBLEMÁTICA
+#### INTRODUCCION A LA PROBLEMÁTICA
 
 CORAL es una pequeña distribuidora de agua embotellada situada en el municipio de Mexicali, Baja California. Su funcionamiento principal es la venta y distribución de diferentes presentaciones de agua embotellada de un proveedor a diversos negocios de la localidad, como tiendas de abarrotes, fruterías, autoservicios y cooperativas. 
 
