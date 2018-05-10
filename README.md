@@ -1,8 +1,8 @@
 # DISTRIBUIDORA DE AGUA EMBOTELLADA CORAL
 
-![base 1](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Producto%20base%201.png)
+![base 1](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Producto%20base%201.1.png)
 
-## INTRODUCCION ##
+## INTRODUCCION
 
 Las bases de datos es un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso; 
 esto le permite a las empresas tener un mejor control de los datos que se manejan, ya que les permite optimizar los procesos que ellas realizan. 
