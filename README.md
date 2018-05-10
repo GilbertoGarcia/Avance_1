@@ -77,4 +77,7 @@ Los registros de cada compra avalaran la existencia de una factura. Un cliente p
 ### DICCIONARIO DE DATOS CONSIDERANDO LOS ATRIBUTOS DE CADA UNA DE LAS ENTIDADES IDENTIFICADAS
 ![DICCIONARIO 3](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Diccionario%203%20-%20Atributos.png)
 
+## MODELO RELACIONAL
+![RELACIONAL](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Modelo%20Relacional.png)
+
 ![Base 2](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Producto%20base%202.png)
