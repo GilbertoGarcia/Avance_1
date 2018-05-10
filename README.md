@@ -23,10 +23,31 @@ Este proyecto se comenzó a desarrollar al determinar los aspectos deficientes e
 
 Por lo anterior, se justifica la necesidad de la implementación de una base de datos que pueda hacer accesible la información relacionada con la distribuidora, desde cualquier lugar y hora que sea requerido.
 
+## OBJETIVO GENERAL
 
-**Para terminar en la finalización de la implementación de un sistema de base de datos eficaz se tomara en consideración instalar el sistema sujeto a futuras mejoras o actualizaciones en base a la independencia de datos físicas y gestionar de manera satisfactoria con el lenguaje de manipulación de datos.**
+Desarrollar una base de datos para el control de compras, clientes y registro de almacenaje de las diferentes presentaciones de agua embotellada que la Distribuidora CORAL maneja.
 
+### OBJETIVOS ESPECIFICOS
 
+**1.	Facilitar una mejor forma de organización de la información que relaciona a la distribuidora.**
+
+**2.	Elaborar una base de datos que pueda desplegar un reporte útil de las diferentes áreas de la distribuidora para la toma de decisiones.**
+
+**3.	Se podrá consultar, ingresar y modificar los datos de todas las operaciones de la distribuidora.**
+
+**4.	Agilizar los procesos de compras, tanto en el estado de recibir los pedidos como en la facturación del mismo.**
+
+**5.	Proporcionar persistencia a la base de datos a medida que se desarrolla para el cliente.**
+
+**6.	A pesar de que el desarrollo de este proyecto será al margen de la asignatura de Fundamentos de Bases de datos esta debe pensarse en permitir a la interface en medida a ignorar la estructura interna de la Base de Datos.**
+
+**7.	Proporcionar la documentación que describa la estructura de la Base de Datos y sus procedimientos.**
+
+**8.	La Base de Datos deberá cumplir con los requerimientos establecidos.**
+
+**9.	La Base de Datos debe ser escalable, permitiendo la incorporación progresiva de nuevas funcionalidades.**
+
+**10.	Definir dinámicamente entidades y atributos adicionales para gestionar la información de referencia.**
 
 ![Diagrama E-R](https://github.com/GilbertoGarcia/Avance_1/blob/master/gil.png)
 
