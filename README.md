@@ -1,5 +1,7 @@
 # DISTRIBUIDORA DE AGUA EMBOTELLADA CORAL
 
+![base 1](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Producto%20base%201.png)
+
 ## INTRODUCCION ##
 
 Las bases de datos es un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso; 
@@ -24,3 +26,5 @@ Con el desarrollo de la base de datos se pretende que la empresa ARCA CONTINENTA
 
 
 ![Diagrama E-R](https://github.com/GilbertoGarcia/Avance_1/blob/master/gil.png)
+
+![Base 2](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Producto%20base%202.png)
