@@ -1,6 +1,6 @@
 # DISTRIBUIDORA DE AGUA EMBOTELLADA CORAL
 
-![base 1](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Producto%20base%201.1.png)
+![Base 1](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Producto%20base%201.1.png)
 
 ## INTRODUCCION
 
@@ -15,11 +15,14 @@ CORAL es una pequeña distribuidora de agua embotellada situada en el municipio 
 
 Con el constante incremento de clientes desde que comenzaron operaciones en el año 2017, la distribuidora CORAL se ha visto en la necesidad de solicitar la implementación de un sistema de bases de datos que controle las compras y ventas de los productos que maneja y de la información que tiene de sus clientes y proveedor.
 
+## JUSTIFICACION
 
+A través de los años las pequeñas empresas han ido evolucionando y transformando la manera en que operan sus principales funciones, todo con el fin de ofrecer un servicio de calidad a su cliente. 
 
-# MOTIVACION
+Este proyecto se comenzó a desarrollar al determinar los aspectos deficientes en las operaciones que la distribuidora realizaba, como la elaboración  de los pedidos a sus clientes, la falta de un correcto control sobre los productos en existencia con los vendidos y un nulo registro que facilitara un conteo exacto y preciso sobre las botellas almacenadas en bodega. 
 
-Con el desarrollo de la base de datos se pretende que la empresa ARCA CONTINENTAL pueda mejorar los procesos de producción, ventas e inventarios, esto con el propósito de brindar un servicio de mayor calidad a sus clientes, además de mejorar la eficiencia del personal y la calidad de los datos e información que requieren los administradores para tener una mejor visión de las ganancias, así habrá una disminución en los errores y conflictos que hay en los procesos actuales.
+Por lo anterior, se justifica la necesidad de la implementación de una base de datos que pueda hacer accesible la información relacionada con la distribuidora, desde cualquier lugar y hora que sea requerido.
+
 
 **Para terminar en la finalización de la implementación de un sistema de base de datos eficaz se tomara en consideración instalar el sistema sujeto a futuras mejoras o actualizaciones en base a la independencia de datos físicas y gestionar de manera satisfactoria con el lenguaje de manipulación de datos.**
 
