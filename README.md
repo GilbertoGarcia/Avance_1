@@ -59,15 +59,15 @@ Actualmente se considera a un único proveedor, ya que por el momento brinda los
 
 Una vez obtenido el producto, este debe ser registrado con la siguiente información: clave de producto, nombre de producto, descripción, el costo de adquisición, cantidad y posteriormente el precio de venta. 
 
-Se deben considerar el almacén en el que se organiza el guardado de las botellas de agua, ya que todo producto es considerado de entrada y salida, por lo que no se mantienen mucho tiempo en ella, es por eso que es importante asignarle una clave de identificación para que puedan llevar el control del saldo y merma de los productos que almacenan.
+Se debe considerar el almacén en el que se organiza el guardado de las botellas de agua, ya que todo producto es considerado de entrada y salida, por lo que no se mantienen mucho tiempo en ella, es por eso que es importante asignarle una clave de identificación para que puedan llevar el control del saldo y merma de los productos que almacenan.
 
 Para el proceso de ventas se debe tener registrada la información de cada uno de los clientes, como una clave que lo identifique, nombre completo, dirección (ciudad, colonia, calle, número exterior), teléfono, rfc.  Posteriormente las compras que se realicen deberán poseer una clave de compra, fecha, el nombre del cliente, producto, cantidad y concepto. 
 
-Los registros de cada compra avalaran la existencia de una factura. Un cliente podrá poseer varias facturas, pero cada compra solo podrá ser acreedora a una única factura que consta de atributos con valor fiscal, como  una clave, rfc del cliente, notas de venta, producto vendido, cantidad vendida, descripción del producto y total a pagar. 
+Los registros de cada compra avalaran la existencia de una factura. Un cliente podrá poseer varias facturas, pero cada compra solo podrá ser acreedora a una única factura que consta de atributos con valor fiscal, como  una clave, rfc del cliente, notas de venta, producto vendido, cantidad vendida, descripción del producto y total a pagar.
 
-
-
-
+### DIAGRAMA
 ![E-R](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Diagrama%20Entidad%20Relacion%202.png)
+
+### Diccionario de datos considerando las entidades identificadas
 
 ![Base 2](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Producto%20base%202.png)
