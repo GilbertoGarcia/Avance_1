@@ -89,4 +89,4 @@ Los registros de cada compra avalaran la existencia de una factura. Un cliente p
 ## MODELO RELACIONAL
 ![RELACIONAL](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Modelo%20Relacional%201.png)
 
-![Base 2](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Producto%20base%202.png)
+![Base 2](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Cabecera%202.png)
