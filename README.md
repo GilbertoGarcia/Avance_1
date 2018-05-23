@@ -63,7 +63,7 @@ También se debe considerar el almacén en el que se organiza el guardado de las
 Para el proceso de pedidos se debe tener registrada la información de cada uno de los clientes, como una clave que lo identifique, nombre completo, dirección (ciudad, colonia, calle, número de calle), teléfono, rfc. Posteriormente los pedidos que se realicen deberán poseer una clave de pedido, fecha, el nombre del cliente, producto, cantidad y concepto.
 
 ### DIAGRAMA
-![E-R](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Diagrama%20Entidad%20Relacion%202.png)
+![E-R](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Modelo%20Entidad%20Relacion.png)
 
 ### DICCIONARIO DE DATOS CONSIDERANDO LAS ENTIDADES IDENTIFICADAS
 ![DICCIONARIO 1](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Diccionario%201%20-%20Entidades.png)
