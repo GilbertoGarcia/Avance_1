@@ -1,6 +1,6 @@
 # DISTRIBUIDORA DE AGUA EMBOTELLADA CORAL
 
-![Base 1](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Producto%20base%201.1.png)
+![Base 1](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Cabecera%201.png)
 
 ## INTRODUCCION
 
