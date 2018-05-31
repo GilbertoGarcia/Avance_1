@@ -82,6 +82,6 @@ Para el proceso de pedidos se debe tener registrada la información de cada uno 
 ![SEM 4](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Red%203.1%20Productos.png)
 
 ## MODELO RELACIONAL
-![RELACIONAL](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Modelo%20Relacional%201.png)
+![RELACIONAL](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Modelo%20Relacional%20Base.png)
 
 ![Base 2](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Cabecera%202.png)
