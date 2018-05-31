@@ -10,7 +10,7 @@ Este proyecto ha consistido en el desarrollo de una base de datos para un negoci
 
 #### PROBLEMÁTICA
 
-**CORAL** es una pequeña distribuidora de agua embotellada situada en el municipio de Mexicali, Baja California. Su funcionamiento principal es la venta y distribución de diferentes presentaciones de agua embotellada de un proveedor a diversos negocios de la localidad, como tiendas de abarrotes, fruterías, autoservicios y cooperativas. 
+**CORAL** es una pequeña distribuidora de agua embotellada situada en el municipio de Mexicali, Baja California. Su funcionamiento principal es la venta y distribución de diferentes presentaciones de agua embotellada de varios proveedores a diversos negocios de la localidad, como tiendas de abarrotes, fruterías, autoservicios y cooperativas. 
 
 Con el constante incremento de clientes desde el comienzo de operaciones en el año 2017, la distribuidora CORAL ha determinado aspectos deficientes en las operaciones que realiza, como la pobre elaboración  de los pedidos de sus clientes, la falta de un correcto control sobre los productos en existencia con respecto a los vendidos y un nulo registro que facilite un conteo exacto y preciso sobre las botellas almacenadas en bodega, por ende se ha visto en la necesidad de solicitar la implementación de un sistema de bases de datos que controle los pedidos de los productos que maneja y la información de sus clientes y proveedores.
 
