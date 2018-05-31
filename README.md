@@ -74,7 +74,7 @@ Los registros de cada pedido avalarán la existencia de una factura. Un cliente 
 ![DICCIONARIO 2](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Diccionario%202%20-%20Relaciones.png)
 
 ### DICCIONARIO DE DATOS CONSIDERANDO LOS ATRIBUTOS DE CADA UNA DE LAS ENTIDADES IDENTIFICADAS
-![DICCIONARIO 3](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Diccionario%203%20-%20Atributos.png)
+![DICCIONARIO 3](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Diccionario%203%20-%20Atributos%20Base.png)
 
 ## REDES SEMANTICAS
 
