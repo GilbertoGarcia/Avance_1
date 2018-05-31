@@ -60,7 +60,9 @@ Una vez obtenido el producto, este debe ser registrado con la siguiente informac
 
 También se debe considerar el almacén en el que se organiza el guardado de las botellas de agua, ya que todo producto es considerado de entrada y salida, por lo que no se mantienen mucho tiempo en ella, es por eso que es importante asignarle una clave de identificación para que puedan llevar el control del saldo y merma de los productos que almacenan.
 
-Para el proceso de pedidos se debe tener registrada la información de cada uno de los clientes, como una clave que lo identifique, nombre completo, dirección (ciudad, colonia, calle, número de zona), teléfono, rfc. Posteriormente los pedidos que se realicen deberán poseer una clave de pedido, fecha, el nombre del cliente, producto, cantidad y concepto. 
+Para el proceso de pedidos se debe tener registrada la información de cada uno de los clientes, como una clave que lo identifique, nombre completo, dirección (ciudad, colonia, calle, número de zona), teléfono, rfc. Posteriormente los pedidos que se realicen deberán poseer una clave de pedido, fecha, el nombre del cliente, producto, cantidad y concepto.
+
+Los registros de cada pedido avalarán la existencia de una factura. Un cliente podrá poseer varias facturas, pero cada pedido sólo podrá ser acreedora a una única factura que consta de atributos con valor fiscal, como  una clave de factura, rfc del cliente, notas de venta, producto vendido, cantidad vendida, descripción del producto y total a pagar. 
 
 ### DIAGRAMA
 ![E-R](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Diagrama%20Entidad%20Relacion.png)
