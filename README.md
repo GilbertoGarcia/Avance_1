@@ -4,7 +4,7 @@
 
 ## INTRODUCCION
 
-Las bases de datos son un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso; esto le permite a las empresas tener un mejor control de los datos que se manejan, ya que les permite optimizar los procesos que ellas realizan. 
+Las bases de datos son un conjunto de datos pertenecientes a un mismo contexto, almacenados sistemáticamente para su posterior uso, permitiendo a las empresas tener un mejor control de los datos que se manejan, ya que les permite optimizar los procesos que ellas realizan. 
 
 Este proyecto ha consistido en el desarrollo de una base de datos para un negocio ficticio, cuyas necesidades estarán descritas en los requerimientos, además se llevara a cabo hasta el punto de implementarlo en MySQL, labor que se encuentra al margen de la asignatura de fundamentos de bases de datos.
 
