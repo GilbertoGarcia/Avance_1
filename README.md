@@ -10,7 +10,7 @@ Este proyecto ha consistido en el desarrollo de una base de datos para un negoci
 
 #### PROBLEMÁTICA
 
-CORAL es una pequeña distribuidora de agua embotellada situada en el municipio de Mexicali, Baja California. Su funcionamiento principal es la venta y distribución de diferentes presentaciones de agua embotellada de un proveedor a diversos negocios de la localidad, como tiendas de abarrotes, fruterías, autoservicios y cooperativas. 
+**CORAL** es una pequeña distribuidora de agua embotellada situada en el municipio de Mexicali, Baja California. Su funcionamiento principal es la venta y distribución de diferentes presentaciones de agua embotellada de un proveedor a diversos negocios de la localidad, como tiendas de abarrotes, fruterías, autoservicios y cooperativas. 
 
 Con el constante incremento de clientes desde el comienzo de operaciones en el año 2017, la distribuidora CORAL ha determinado aspectos deficientes en las operaciones que realiza, como la pobre elaboración  de los pedidos de sus clientes, la falta de un correcto control sobre los productos en existencia con respecto a los vendidos y un nulo registro que facilite un conteo exacto y preciso sobre las botellas almacenadas en bodega, por ende se ha visto en la necesidad de solicitar la implementación de un sistema de bases de datos que controle los pedidos de los productos que maneja y la información de sus clientes y proveedores.
 
@@ -54,13 +54,13 @@ Desarrollar una base de datos para el control de compras, clientes y registro de
 
 En la distribución que maneja la empresa CORAL existen procesos que tienen como meta en común producir la venta de agua embotellada. Cada uno de estos procesos es cuidadosamente realizado, debido a que la incorrecta manipulación de los productos puede perjudicar al cliente y por consecuencia al negocio.
 
-Se consideran los proveedores, porque brindan los productos con la calidad que los clientes demandan, por eso es importante crear un apartado en la base de datos que registre la información necesaria de tales, como una clave de proveedor, nombre de la empresa, teléfono y sucursal (Ciudad, colonia, calle, número de calle).
+Se consideran los proveedores, porque brindan los productos con la calidad que los clientes demandan, por eso es importante crear un apartado en la base de datos que registre la información necesaria de tales, como una clave de proveedor, nombre de la empresa, teléfono y sucursal (Ciudad, colonia, calle, número de zona).
 
 Una vez obtenido el producto, este debe ser registrado con la siguiente información: clave de producto, nombre de producto, descripción, el costo de adquisición, cantidad y posteriormente el precio de venta. 
 
 También se debe considerar el almacén en el que se organiza el guardado de las botellas de agua, ya que todo producto es considerado de entrada y salida, por lo que no se mantienen mucho tiempo en ella, es por eso que es importante asignarle una clave de identificación para que puedan llevar el control del saldo y merma de los productos que almacenan.
 
-Para el proceso de pedidos se debe tener registrada la información de cada uno de los clientes, como una clave que lo identifique, nombre completo, dirección (ciudad, colonia, calle, número de calle), teléfono, rfc. Posteriormente los pedidos que se realicen deberán poseer una clave de pedido, fecha, el nombre del cliente, producto, cantidad y concepto.
+Para el proceso de pedidos se debe tener registrada la información de cada uno de los clientes, como una clave que lo identifique, nombre completo, dirección (ciudad, colonia, calle, número de zona), teléfono, rfc. Posteriormente los pedidos que se realicen deberán poseer una clave de pedido, fecha, el nombre del cliente, producto, cantidad y concepto. 
 
 ### DIAGRAMA
 ![E-R](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Modelo%20Entidad%20Relacion.png)
