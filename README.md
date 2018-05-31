@@ -76,12 +76,10 @@ Para el proceso de pedidos se debe tener registrada la información de cada uno 
 
 ## REDES SEMANTICAS
 
-![SEM 1](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Red%201.png)
-![SEM 2](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Red%202.png)
-![SEM 3](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Red%203.png)
-![SEM 4](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Red%204.png)
-![SEM 5](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Red%205.png)
-![SEM 6](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Red%206.png)
+![SEM 1](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Red%201.png)
+![SEM 2](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Red%202.png)
+![SEM 3](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Red%203.2.png)
+![SEM 4](https://github.com/GilbertoGarcia/Distribuidora-Agua-Embotellada-Coral/blob/master/Material%20Visual/Red%203.1%20Productos.png)
 
 ## MODELO RELACIONAL
 ![RELACIONAL](https://github.com/GilbertoGarcia/Distribuidora-de-Agua-Embotellada-Coral/blob/master/Modelo%20Relacional%201.png)
